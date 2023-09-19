@@ -1,8 +1,7 @@
 import pytest
 import pandas as pd
 
-from my_krml_14191732.data.sets import pop_target
-
+from src.data.sets import pop_target
 
 @pytest.fixture
 def features_fixture():
