@@ -1,14 +1,14 @@
 [tool.poetry]
 name = "my_krml_14191732"
-version = "0.1.0"
+version = "0.1.1"
 description = "A package for the assignment 2 - Advanced Machine Learning 2023"
 authors = ["my_krml_14191732"]
 license = "None"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9.13"
-pandas = "^1.3.3"
+python = "^3.8"
+pandas = "^2.0.1"
 scikit-learn = "1.2.2"
 
 [tool.poetry.dev-dependencies]
